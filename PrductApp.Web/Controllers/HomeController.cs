@@ -5,6 +5,7 @@ using System.Diagnostics;
 
 namespace ProductApp.Web.Controllers
 {
+    //TEST commit 2
     public class HomeController : Controller
     {
         private readonly ILogger<HomeController> _logger;
